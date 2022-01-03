@@ -12,9 +12,6 @@
 
 #include "st7789.h"
 #include "fontx.h"
-#include "bmpfile.h"
-#include "pngle.h"
-#include "decode_image.h"
 #include "esp_timer.h"
 #include "esp_sleep.h"
 #include "esp_sntp.h"
