@@ -7,7 +7,7 @@ Demo on bilibili:
 https://www.bilibili.com/video/BV1MY411a7m1?share_source=copy_web
 
 # 
-![DEMO IMAGE]https://github.com/RDHI/esp32-Bluetooth-keyboard-input/blob/main/demo.jpeg
+![DEMO IMAGE](https://github.com/RDHI/esp32-Bluetooth-keyboard-input/blob/main/demo.jpeg)
 
 # reference
 
