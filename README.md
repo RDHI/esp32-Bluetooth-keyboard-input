@@ -6,8 +6,11 @@ https://youtu.be/FdU0cYkKHmQ
 Demo on bilibili:
 https://www.bilibili.com/video/BV1MY411a7m1?share_source=copy_web
 
+# 
+https://github.com/RDHI/esp32-Bluetooth-keyboard-input/blob/main/demo.jpeg
 
 # reference
+
 The screen driver and the font file are based on this guy's project:
 https://github.com/nopnop2002/esp-idf-st7789
 
